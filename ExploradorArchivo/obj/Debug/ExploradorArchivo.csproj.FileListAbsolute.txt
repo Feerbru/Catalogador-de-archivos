@@ -1,0 +1,147 @@
+C:\Users\Francisco\source\repos\ExploradorArchivo\ExploradorArchivo\bin\Debug\ExploradorArchivo.exe.config
+C:\Users\Francisco\source\repos\ExploradorArchivo\ExploradorArchivo\bin\Debug\ExploradorArchivo.exe
+C:\Users\Francisco\source\repos\ExploradorArchivo\ExploradorArchivo\bin\Debug\ExploradorArchivo.pdb
+C:\Users\Francisco\source\repos\ExploradorArchivo\ExploradorArchivo\obj\Debug\ExploradorArchivo.csprojAssemblyReference.cache
+C:\Users\Francisco\source\repos\ExploradorArchivo\ExploradorArchivo\obj\Debug\ExploradorArchivo.Form1.resources
+C:\Users\Francisco\source\repos\ExploradorArchivo\ExploradorArchivo\obj\Debug\ExploradorArchivo.Properties.Resources.resources
+C:\Users\Francisco\source\repos\ExploradorArchivo\ExploradorArchivo\obj\Debug\ExploradorArchivo.csproj.GenerateResource.cache
+C:\Users\Francisco\source\repos\ExploradorArchivo\ExploradorArchivo\obj\Debug\ExploradorArchivo.csproj.CoreCompileInputs.cache
+C:\Users\Francisco\source\repos\ExploradorArchivo\ExploradorArchivo\obj\Debug\ExploradorArchivo.exe
+C:\Users\Francisco\source\repos\ExploradorArchivo\ExploradorArchivo\obj\Debug\ExploradorArchivo.pdb
+C:\Users\ale\source\repos\tpintegrador\ExploradorArchivo\bin\Debug\ExploradorArchivo.exe.config
+C:\Users\ale\source\repos\tpintegrador\ExploradorArchivo\bin\Debug\ExploradorArchivo.exe
+C:\Users\ale\source\repos\tpintegrador\ExploradorArchivo\bin\Debug\ExploradorArchivo.pdb
+C:\Users\ale\source\repos\tpintegrador\ExploradorArchivo\obj\Debug\ExploradorArchivo.csproj.AssemblyReference.cache
+C:\Users\ale\source\repos\tpintegrador\ExploradorArchivo\obj\Debug\ExploradorArchivo.Form1.resources
+C:\Users\ale\source\repos\tpintegrador\ExploradorArchivo\obj\Debug\ExploradorArchivo.Properties.Resources.resources
+C:\Users\ale\source\repos\tpintegrador\ExploradorArchivo\obj\Debug\ExploradorArchivo.csproj.GenerateResource.cache
+C:\Users\ale\source\repos\tpintegrador\ExploradorArchivo\obj\Debug\ExploradorArchivo.csproj.CoreCompileInputs.cache
+C:\Users\ale\source\repos\tpintegrador\ExploradorArchivo\obj\Debug\ExploradorArchivo.exe
+C:\Users\ale\source\repos\tpintegrador\ExploradorArchivo\obj\Debug\ExploradorArchivo.pdb
+C:\Users\pablo\Desktop\ExploradorArchivo\ExploradorArchivo\bin\Debug\ExploradorArchivo.exe.config
+C:\Users\pablo\Desktop\ExploradorArchivo\ExploradorArchivo\bin\Debug\ExploradorArchivo.exe
+C:\Users\pablo\Desktop\ExploradorArchivo\ExploradorArchivo\bin\Debug\ExploradorArchivo.pdb
+C:\Users\pablo\Desktop\ExploradorArchivo\ExploradorArchivo\obj\Debug\ExploradorArchivo.csprojAssemblyReference.cache
+C:\Users\pablo\Desktop\ExploradorArchivo\ExploradorArchivo\obj\Debug\ExploradorArchivo.Form1.resources
+C:\Users\pablo\Desktop\ExploradorArchivo\ExploradorArchivo\obj\Debug\ExploradorArchivo.Properties.Resources.resources
+C:\Users\pablo\Desktop\ExploradorArchivo\ExploradorArchivo\obj\Debug\ExploradorArchivo.csproj.GenerateResource.cache
+C:\Users\pablo\Desktop\ExploradorArchivo\ExploradorArchivo\obj\Debug\ExploradorArchivo.csproj.CoreCompileInputs.cache
+C:\Users\pablo\Desktop\ExploradorArchivo\ExploradorArchivo\obj\Debug\ExploradorArchivo.exe
+C:\Users\pablo\Desktop\ExploradorArchivo\ExploradorArchivo\obj\Debug\ExploradorArchivo.pdb
+C:\Users\pablo\Desktop\ExploradorArchivo\ExploradorArchivo\obj\Debug\ExploradorArchivo.Categoria.resources
+C:\Users\pablo\Desktop\ExploradorArchivo\ExploradorArchivo\obj\Debug\ExploradorArchivo.Filtro.resources
+C:\Users\pablo\Desktop\ExploradorArchivo\ExploradorArchivo\obj\Debug\ExploradorArchivo.GrupoIntegrantes.resources
+C:\Users\pablo\Desktop\ExploradorArchivo\ExploradorArchivo\bin\Debug\ExploradorArchivo.exe.manifest
+C:\Users\pablo\Desktop\ExploradorArchivo\ExploradorArchivo\bin\Debug\ExploradorArchivo.application
+C:\Users\pablo\Desktop\ExploradorArchivo\ExploradorArchivo\obj\Debug\ExploradorArchivo.exe.manifest
+C:\Users\pablo\Desktop\ExploradorArchivo\ExploradorArchivo\obj\Debug\ExploradorArchivo.application
+C:\Users\pablo\Desktop\Proyecto\ExploradorArchivo\ExploradorArchivo\bin\Debug\ExploradorArchivo.exe.config
+C:\Users\pablo\Desktop\Proyecto\ExploradorArchivo\ExploradorArchivo\bin\Debug\ExploradorArchivo.exe.manifest
+C:\Users\pablo\Desktop\Proyecto\ExploradorArchivo\ExploradorArchivo\bin\Debug\ExploradorArchivo.application
+C:\Users\pablo\Desktop\Proyecto\ExploradorArchivo\ExploradorArchivo\bin\Debug\ExploradorArchivo.exe
+C:\Users\pablo\Desktop\Proyecto\ExploradorArchivo\ExploradorArchivo\bin\Debug\ExploradorArchivo.pdb
+C:\Users\pablo\Desktop\Proyecto\ExploradorArchivo\ExploradorArchivo\obj\Debug\ExploradorArchivo.Categoria.resources
+C:\Users\pablo\Desktop\Proyecto\ExploradorArchivo\ExploradorArchivo\obj\Debug\ExploradorArchivo.Form1.resources
+C:\Users\pablo\Desktop\Proyecto\ExploradorArchivo\ExploradorArchivo\obj\Debug\ExploradorArchivo.GrupoIntegrantes.resources
+C:\Users\pablo\Desktop\Proyecto\ExploradorArchivo\ExploradorArchivo\obj\Debug\ExploradorArchivo.Properties.Resources.resources
+C:\Users\pablo\Desktop\Proyecto\ExploradorArchivo\ExploradorArchivo\obj\Debug\ExploradorArchivo.csproj.GenerateResource.cache
+C:\Users\pablo\Desktop\Proyecto\ExploradorArchivo\ExploradorArchivo\obj\Debug\ExploradorArchivo.csproj.CoreCompileInputs.cache
+C:\Users\pablo\Desktop\Proyecto\ExploradorArchivo\ExploradorArchivo\obj\Debug\ExploradorArchivo.exe.manifest
+C:\Users\pablo\Desktop\Proyecto\ExploradorArchivo\ExploradorArchivo\obj\Debug\ExploradorArchivo.application
+C:\Users\pablo\Desktop\Proyecto\ExploradorArchivo\ExploradorArchivo\obj\Debug\ExploradorArchivo.exe
+C:\Users\pablo\Desktop\Proyecto\ExploradorArchivo\ExploradorArchivo\obj\Debug\ExploradorArchivo.pdb
+C:\Users\pablo\Desktop\Proyecto\ExploradorArchivo\ExploradorArchivo\bin\Debug\AdvancedDataGridView.dll
+C:\Users\pablo\Desktop\Proyecto\ExploradorArchivo\ExploradorArchivo\bin\Debug\AdvancedDataGridView.xml
+C:\Users\pablo\Desktop\Proyecto\ExploradorArchivo\ExploradorArchivo\bin\Debug\fr\AdvancedDataGridView.resources.dll
+C:\Users\pablo\Desktop\Proyecto\ExploradorArchivo\ExploradorArchivo\bin\Debug\ru\AdvancedDataGridView.resources.dll
+C:\Users\pablo\Desktop\Proyecto\ExploradorArchivo\ExploradorArchivo\obj\Debug\ExploradorArchivo.csproj.CopyComplete
+C:\Users\pablo\Desktop\Proyecto\ExploradorArchivo\ExploradorArchivo\obj\Debug\ExploradorArchivo.CargaMultiple.resources
+C:\Users\pablo\Desktop\Proyecto\ExploradorArchivo\ExploradorArchivo\obj\Debug\ExploradorArchivo.csprojAssemblyReference.cache
+C:\Users\nesky\Google Drive\TUP\2021\Prog3\Integrador\Proyecto\ExploradorArchivo\ExploradorArchivo\bin\Debug\ExploradorArchivo.exe.config
+C:\Users\nesky\Google Drive\TUP\2021\Prog3\Integrador\Proyecto\ExploradorArchivo\ExploradorArchivo\bin\Debug\ExploradorArchivo.exe.manifest
+C:\Users\nesky\Google Drive\TUP\2021\Prog3\Integrador\Proyecto\ExploradorArchivo\ExploradorArchivo\bin\Debug\ExploradorArchivo.application
+C:\Users\nesky\Google Drive\TUP\2021\Prog3\Integrador\Proyecto\ExploradorArchivo\ExploradorArchivo\bin\Debug\ExploradorArchivo.exe
+C:\Users\nesky\Google Drive\TUP\2021\Prog3\Integrador\Proyecto\ExploradorArchivo\ExploradorArchivo\bin\Debug\ExploradorArchivo.pdb
+C:\Users\nesky\Google Drive\TUP\2021\Prog3\Integrador\Proyecto\ExploradorArchivo\ExploradorArchivo\bin\Debug\AdvancedDataGridView.dll
+C:\Users\nesky\Google Drive\TUP\2021\Prog3\Integrador\Proyecto\ExploradorArchivo\ExploradorArchivo\bin\Debug\AdvancedDataGridView.xml
+C:\Users\nesky\Google Drive\TUP\2021\Prog3\Integrador\Proyecto\ExploradorArchivo\ExploradorArchivo\bin\Debug\fr\AdvancedDataGridView.resources.dll
+C:\Users\nesky\Google Drive\TUP\2021\Prog3\Integrador\Proyecto\ExploradorArchivo\ExploradorArchivo\bin\Debug\ru\AdvancedDataGridView.resources.dll
+C:\Users\nesky\Google Drive\TUP\2021\Prog3\Integrador\Proyecto\ExploradorArchivo\ExploradorArchivo\obj\Debug\ExploradorArchivo.csproj.AssemblyReference.cache
+C:\Users\nesky\Google Drive\TUP\2021\Prog3\Integrador\Proyecto\ExploradorArchivo\ExploradorArchivo\obj\Debug\ExploradorArchivo.CargaMultiple.resources
+C:\Users\nesky\Google Drive\TUP\2021\Prog3\Integrador\Proyecto\ExploradorArchivo\ExploradorArchivo\obj\Debug\ExploradorArchivo.Categoria.resources
+C:\Users\nesky\Google Drive\TUP\2021\Prog3\Integrador\Proyecto\ExploradorArchivo\ExploradorArchivo\obj\Debug\ExploradorArchivo.Form1.resources
+C:\Users\nesky\Google Drive\TUP\2021\Prog3\Integrador\Proyecto\ExploradorArchivo\ExploradorArchivo\obj\Debug\ExploradorArchivo.GrupoIntegrantes.resources
+C:\Users\nesky\Google Drive\TUP\2021\Prog3\Integrador\Proyecto\ExploradorArchivo\ExploradorArchivo\obj\Debug\ExploradorArchivo.Properties.Resources.resources
+C:\Users\nesky\Google Drive\TUP\2021\Prog3\Integrador\Proyecto\ExploradorArchivo\ExploradorArchivo\obj\Debug\ExploradorArchivo.csproj.GenerateResource.cache
+C:\Users\nesky\Google Drive\TUP\2021\Prog3\Integrador\Proyecto\ExploradorArchivo\ExploradorArchivo\obj\Debug\ExploradorArchivo.csproj.CoreCompileInputs.cache
+C:\Users\nesky\Google Drive\TUP\2021\Prog3\Integrador\Proyecto\ExploradorArchivo\ExploradorArchivo\obj\Debug\ExploradorArchivo.exe.manifest
+C:\Users\nesky\Google Drive\TUP\2021\Prog3\Integrador\Proyecto\ExploradorArchivo\ExploradorArchivo\obj\Debug\ExploradorArchivo.application
+C:\Users\nesky\Google Drive\TUP\2021\Prog3\Integrador\Proyecto\ExploradorArchivo\ExploradorArchivo\obj\Debug\ExploradorArchivo.csproj.CopyComplete
+C:\Users\nesky\Google Drive\TUP\2021\Prog3\Integrador\Proyecto\ExploradorArchivo\ExploradorArchivo\obj\Debug\ExploradorArchivo.exe
+C:\Users\nesky\Google Drive\TUP\2021\Prog3\Integrador\Proyecto\ExploradorArchivo\ExploradorArchivo\obj\Debug\ExploradorArchivo.pdb
+C:\Users\Fernando\Downloads\Proyecto (3)\Proyecto\ExploradorArchivo\ExploradorArchivo\bin\Debug\ExploradorArchivo.exe.config
+C:\Users\Fernando\Downloads\Proyecto (3)\Proyecto\ExploradorArchivo\ExploradorArchivo\bin\Debug\ExploradorArchivo.exe.manifest
+C:\Users\Fernando\Downloads\Proyecto (3)\Proyecto\ExploradorArchivo\ExploradorArchivo\bin\Debug\ExploradorArchivo.application
+C:\Users\Fernando\Downloads\Proyecto (3)\Proyecto\ExploradorArchivo\ExploradorArchivo\bin\Debug\ExploradorArchivo.exe
+C:\Users\Fernando\Downloads\Proyecto (3)\Proyecto\ExploradorArchivo\ExploradorArchivo\bin\Debug\ExploradorArchivo.pdb
+C:\Users\Fernando\Downloads\Proyecto (3)\Proyecto\ExploradorArchivo\ExploradorArchivo\bin\Debug\AdvancedDataGridView.dll
+C:\Users\Fernando\Downloads\Proyecto (3)\Proyecto\ExploradorArchivo\ExploradorArchivo\bin\Debug\AdvancedDataGridView.xml
+C:\Users\Fernando\Downloads\Proyecto (3)\Proyecto\ExploradorArchivo\ExploradorArchivo\bin\Debug\fr\AdvancedDataGridView.resources.dll
+C:\Users\Fernando\Downloads\Proyecto (3)\Proyecto\ExploradorArchivo\ExploradorArchivo\bin\Debug\ru\AdvancedDataGridView.resources.dll
+C:\Users\Fernando\Downloads\Proyecto (3)\Proyecto\ExploradorArchivo\ExploradorArchivo\obj\Debug\ExploradorArchivo.csproj.AssemblyReference.cache
+C:\Users\Fernando\Downloads\Proyecto (3)\Proyecto\ExploradorArchivo\ExploradorArchivo\obj\Debug\ExploradorArchivo.CargaMultiple.resources
+C:\Users\Fernando\Downloads\Proyecto (3)\Proyecto\ExploradorArchivo\ExploradorArchivo\obj\Debug\ExploradorArchivo.Categoria.resources
+C:\Users\Fernando\Downloads\Proyecto (3)\Proyecto\ExploradorArchivo\ExploradorArchivo\obj\Debug\ExploradorArchivo.Form1.resources
+C:\Users\Fernando\Downloads\Proyecto (3)\Proyecto\ExploradorArchivo\ExploradorArchivo\obj\Debug\ExploradorArchivo.GrupoIntegrantes.resources
+C:\Users\Fernando\Downloads\Proyecto (3)\Proyecto\ExploradorArchivo\ExploradorArchivo\obj\Debug\ExploradorArchivo.Properties.Resources.resources
+C:\Users\Fernando\Downloads\Proyecto (3)\Proyecto\ExploradorArchivo\ExploradorArchivo\obj\Debug\ExploradorArchivo.csproj.GenerateResource.cache
+C:\Users\Fernando\Downloads\Proyecto (3)\Proyecto\ExploradorArchivo\ExploradorArchivo\obj\Debug\ExploradorArchivo.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Downloads\Proyecto (3)\Proyecto\ExploradorArchivo\ExploradorArchivo\obj\Debug\ExploradorArchivo.exe.manifest
+C:\Users\Fernando\Downloads\Proyecto (3)\Proyecto\ExploradorArchivo\ExploradorArchivo\obj\Debug\ExploradorArchivo.application
+C:\Users\Fernando\Downloads\Proyecto (3)\Proyecto\ExploradorArchivo\ExploradorArchivo\obj\Debug\ExploradorArchivo.csproj.CopyComplete
+C:\Users\Fernando\Downloads\Proyecto (3)\Proyecto\ExploradorArchivo\ExploradorArchivo\obj\Debug\ExploradorArchivo.exe
+C:\Users\Fernando\Downloads\Proyecto (3)\Proyecto\ExploradorArchivo\ExploradorArchivo\obj\Debug\ExploradorArchivo.pdb
+C:\Users\Francisco\Downloads\ExploradorArchivo_v1.2\ExploradorArchivo\ExploradorArchivo\bin\Debug\ExploradorArchivo.exe.config
+C:\Users\Francisco\Downloads\ExploradorArchivo_v1.2\ExploradorArchivo\ExploradorArchivo\bin\Debug\ExploradorArchivo.exe.manifest
+C:\Users\Francisco\Downloads\ExploradorArchivo_v1.2\ExploradorArchivo\ExploradorArchivo\bin\Debug\ExploradorArchivo.application
+C:\Users\Francisco\Downloads\ExploradorArchivo_v1.2\ExploradorArchivo\ExploradorArchivo\bin\Debug\ExploradorArchivo.exe
+C:\Users\Francisco\Downloads\ExploradorArchivo_v1.2\ExploradorArchivo\ExploradorArchivo\bin\Debug\ExploradorArchivo.pdb
+C:\Users\Francisco\Downloads\ExploradorArchivo_v1.2\ExploradorArchivo\ExploradorArchivo\bin\Debug\AdvancedDataGridView.dll
+C:\Users\Francisco\Downloads\ExploradorArchivo_v1.2\ExploradorArchivo\ExploradorArchivo\bin\Debug\AdvancedDataGridView.xml
+C:\Users\Francisco\Downloads\ExploradorArchivo_v1.2\ExploradorArchivo\ExploradorArchivo\bin\Debug\fr\AdvancedDataGridView.resources.dll
+C:\Users\Francisco\Downloads\ExploradorArchivo_v1.2\ExploradorArchivo\ExploradorArchivo\bin\Debug\ru\AdvancedDataGridView.resources.dll
+C:\Users\Francisco\Downloads\ExploradorArchivo_v1.2\ExploradorArchivo\ExploradorArchivo\obj\Debug\ExploradorArchivo.csprojAssemblyReference.cache
+C:\Users\Francisco\Downloads\ExploradorArchivo_v1.2\ExploradorArchivo\ExploradorArchivo\obj\Debug\ExploradorArchivo.CargaMultiple.resources
+C:\Users\Francisco\Downloads\ExploradorArchivo_v1.2\ExploradorArchivo\ExploradorArchivo\obj\Debug\ExploradorArchivo.Categoria.resources
+C:\Users\Francisco\Downloads\ExploradorArchivo_v1.2\ExploradorArchivo\ExploradorArchivo\obj\Debug\ExploradorArchivo.Form1.resources
+C:\Users\Francisco\Downloads\ExploradorArchivo_v1.2\ExploradorArchivo\ExploradorArchivo\obj\Debug\ExploradorArchivo.GrupoIntegrantes.resources
+C:\Users\Francisco\Downloads\ExploradorArchivo_v1.2\ExploradorArchivo\ExploradorArchivo\obj\Debug\ExploradorArchivo.Properties.Resources.resources
+C:\Users\Francisco\Downloads\ExploradorArchivo_v1.2\ExploradorArchivo\ExploradorArchivo\obj\Debug\ExploradorArchivo.csproj.GenerateResource.cache
+C:\Users\Francisco\Downloads\ExploradorArchivo_v1.2\ExploradorArchivo\ExploradorArchivo\obj\Debug\ExploradorArchivo.csproj.CoreCompileInputs.cache
+C:\Users\Francisco\Downloads\ExploradorArchivo_v1.2\ExploradorArchivo\ExploradorArchivo\obj\Debug\ExploradorArchivo.exe.manifest
+C:\Users\Francisco\Downloads\ExploradorArchivo_v1.2\ExploradorArchivo\ExploradorArchivo\obj\Debug\ExploradorArchivo.application
+C:\Users\Francisco\Downloads\ExploradorArchivo_v1.2\ExploradorArchivo\ExploradorArchivo\obj\Debug\ExploradorArchivo.csproj.CopyComplete
+C:\Users\Francisco\Downloads\ExploradorArchivo_v1.2\ExploradorArchivo\ExploradorArchivo\obj\Debug\ExploradorArchivo.exe
+C:\Users\Francisco\Downloads\ExploradorArchivo_v1.2\ExploradorArchivo\ExploradorArchivo\obj\Debug\ExploradorArchivo.pdb
+C:\Users\pablo\Desktop\ExploradorArchivo_v1.2\ExploradorArchivo\ExploradorArchivo\bin\Debug\ExploradorArchivo.exe.config
+C:\Users\pablo\Desktop\ExploradorArchivo_v1.2\ExploradorArchivo\ExploradorArchivo\bin\Debug\ExploradorArchivo.exe.manifest
+C:\Users\pablo\Desktop\ExploradorArchivo_v1.2\ExploradorArchivo\ExploradorArchivo\bin\Debug\ExploradorArchivo.application
+C:\Users\pablo\Desktop\ExploradorArchivo_v1.2\ExploradorArchivo\ExploradorArchivo\bin\Debug\ExploradorArchivo.exe
+C:\Users\pablo\Desktop\ExploradorArchivo_v1.2\ExploradorArchivo\ExploradorArchivo\bin\Debug\ExploradorArchivo.pdb
+C:\Users\pablo\Desktop\ExploradorArchivo_v1.2\ExploradorArchivo\ExploradorArchivo\bin\Debug\AdvancedDataGridView.dll
+C:\Users\pablo\Desktop\ExploradorArchivo_v1.2\ExploradorArchivo\ExploradorArchivo\bin\Debug\AdvancedDataGridView.xml
+C:\Users\pablo\Desktop\ExploradorArchivo_v1.2\ExploradorArchivo\ExploradorArchivo\bin\Debug\fr\AdvancedDataGridView.resources.dll
+C:\Users\pablo\Desktop\ExploradorArchivo_v1.2\ExploradorArchivo\ExploradorArchivo\bin\Debug\ru\AdvancedDataGridView.resources.dll
+C:\Users\pablo\Desktop\ExploradorArchivo_v1.2\ExploradorArchivo\ExploradorArchivo\obj\Debug\ExploradorArchivo.csprojAssemblyReference.cache
+C:\Users\pablo\Desktop\ExploradorArchivo_v1.2\ExploradorArchivo\ExploradorArchivo\obj\Debug\ExploradorArchivo.CargaMultiple.resources
+C:\Users\pablo\Desktop\ExploradorArchivo_v1.2\ExploradorArchivo\ExploradorArchivo\obj\Debug\ExploradorArchivo.Categoria.resources
+C:\Users\pablo\Desktop\ExploradorArchivo_v1.2\ExploradorArchivo\ExploradorArchivo\obj\Debug\ExploradorArchivo.Form1.resources
+C:\Users\pablo\Desktop\ExploradorArchivo_v1.2\ExploradorArchivo\ExploradorArchivo\obj\Debug\ExploradorArchivo.GrupoIntegrantes.resources
+C:\Users\pablo\Desktop\ExploradorArchivo_v1.2\ExploradorArchivo\ExploradorArchivo\obj\Debug\ExploradorArchivo.Properties.Resources.resources
+C:\Users\pablo\Desktop\ExploradorArchivo_v1.2\ExploradorArchivo\ExploradorArchivo\obj\Debug\ExploradorArchivo.csproj.GenerateResource.cache
+C:\Users\pablo\Desktop\ExploradorArchivo_v1.2\ExploradorArchivo\ExploradorArchivo\obj\Debug\ExploradorArchivo.csproj.CoreCompileInputs.cache
+C:\Users\pablo\Desktop\ExploradorArchivo_v1.2\ExploradorArchivo\ExploradorArchivo\obj\Debug\ExploradorArchivo.exe.manifest
+C:\Users\pablo\Desktop\ExploradorArchivo_v1.2\ExploradorArchivo\ExploradorArchivo\obj\Debug\ExploradorArchivo.application
+C:\Users\pablo\Desktop\ExploradorArchivo_v1.2\ExploradorArchivo\ExploradorArchivo\obj\Debug\ExploradorArchivo.csproj.CopyComplete
+C:\Users\pablo\Desktop\ExploradorArchivo_v1.2\ExploradorArchivo\ExploradorArchivo\obj\Debug\ExploradorArchivo.exe
+C:\Users\pablo\Desktop\ExploradorArchivo_v1.2\ExploradorArchivo\ExploradorArchivo\obj\Debug\ExploradorArchivo.pdb
